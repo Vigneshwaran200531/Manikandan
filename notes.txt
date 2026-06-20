@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-
-school
- man free
-=======
- movies 
-games
-internet
-wifi
-vignesh
->>>>>>> a64f53e0b3e42270c8e0bdbfc59c89dffc5f001c
+praveeen vijay
